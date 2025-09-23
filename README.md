@@ -3,7 +3,7 @@
 INFO 213 Data Science Programming II | Summer 2023 | Final Project
 
 ## Project Description
-
+The goal of this project is to predict cardiovascular disease (CVD) using a few selected risk factors and to identify which of these factors are the most significant. A key objective of this project is to gain a solid understanding of the CRISP-DM framework and the overall data science life cycle.
 
 ## Project Details
 Please see `INFO213_Final_Project_Presentation.pdf`.

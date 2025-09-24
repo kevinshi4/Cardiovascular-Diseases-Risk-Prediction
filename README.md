@@ -12,7 +12,7 @@ Please see `INFO213_Final_Project_Presentation.pdf`.
 Please see `INFO213_Final_Project_Code.ipynb` for consolidated code and an in-depth analysis of this project.
 
 ## Dataset
-Kaggle link: https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset
+Dataset link: https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset
 
 Paper detailing the dataset: https://eajournals.org/ejcsit/vol11-issue-3-2023/integrated-machine-learning-model-for-comprehensive-heart-disease-risk-assessment-based-on-multi-dimensional-health-factors/
 
